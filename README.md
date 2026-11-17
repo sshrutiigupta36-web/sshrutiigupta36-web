@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I am Shruti Gupta!
 
-<!--
-**sshrutiigupta36-web/sshrutiigupta36-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- BCA (AI & DS Honors with Research) Student at K.R. Mangalam University, Gurugram (Batch 2024–28)
+- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
+- Interested in: Data Science & AI / ML
 
-Here are some ideas to get you started:
+## Technical Skills
+| Category | Technologies |
+|------------|-----------------------------------------------------|
+| Languages | Python (Beginner), Bash / Shell Scripting |
+| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Concepts | File Systems, Process Management, REST APIs, Markdown |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Developer Portfolio](https://github.com/sshrutiigupta36-web/Developer-portfolio) — Central repository for lab work, learning roadmap, and coding tracker
+
+## Currently Working On
+- Semester 1 lab projects and building daily problem-solving habits in Python
+
+## Connect With Me
+- LinkedIn : [Shruti Gupta](https://www.linkedin.com/in/shruti-gupta-a1b742376)
+- Email : 2601201028@krmu.edu.in
